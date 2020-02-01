@@ -41918,6 +41918,7 @@ let BattleLearnsets = {
 	}},
 	rotomwash: {learnset: {
 		hydropump: ["8L1", "7R", "6R", "5R", "4R"],
+		scald: ["8L1", "7R", "6R", "5R", "4R"],
 	}},
 	rotomfrost: {learnset: {
 		blizzard: ["8L1", "7R", "6R", "5R", "4R"],
